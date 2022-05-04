@@ -7,7 +7,7 @@
     "async": "^2.5.0",
     "chromedriver": "^2.29.0",
     "getenv": "^0.7.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "moment": "^2.18.1",
     "nightwatch": "^0.9.14"
   },
