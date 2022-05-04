@@ -8,7 +8,7 @@
     "chromedriver": "^2.29.0",
     "getenv": "^0.7.0",
     "minimist": "^1.2.0",
-    "moment": "^2.18.1",
+    "moment": "^2.29.2",
     "nightwatch": "^0.9.14"
   },
   "devDependencies": {
